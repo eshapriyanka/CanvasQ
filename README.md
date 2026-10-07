@@ -5,9 +5,9 @@
 
 - Applied best practices in PyTorch, including label encoding, normalization, early stopping, learning rate scheduling, and custom loss functions.
 
-🎨 ArtInsights: Neural Style Transfer & AI Artwork Detection
+🎨 CanvasQ: Neural Style Transfer & AI Artwork Detection
 
-ArtInsights is a Computer Vision application that combines **Neural Style Transfer** and **AI-Generated Artwork Detection** into a single interactive platform. The project enables users to transform images into artistic styles and analyze whether an artwork is human-created or AI-generated.
+CanvasQ is a Computer Vision application that combines **Neural Style Transfer** and **AI-Generated Artwork Detection** into a single interactive platform. The project enables users to transform images into artistic styles and analyze whether an artwork is human-created or AI-generated.
 
 Built using **TensorFlow**, **DINOv2**, **Scikit-learn**, and **Streamlit**, the system demonstrates the integration of deep learning, feature extraction, image classification, and web deployment.
 
